@@ -8,7 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Je",
+	"author": "vaibhav",
 	"engines": {
 		"node": "8.11.2"
 	},
